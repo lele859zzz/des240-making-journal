@@ -8,7 +8,23 @@ layout: default
 
 ## Documentation 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+# Experiment 1: Data Drawings
+
+## Overview
+This experiment explored how data can be translated into visual drawings and marks. The goal was to experiment with representing information visually.
+
+## In-class tasks
+During the workshop I experimented with drawing data using different marks and patterns. I tried using lines, dots, and repetition to represent different values and changes in the data.
+
+## Independent study
+After the class I continued testing different drawing approaches. I explored how spacing, layering, and density could communicate variation in the data.
+
+
+## Reflection
+This experiment showed me that data can be represented in more expressive ways rather than only through charts or numbers. Drawing allowed me to interpret the data visually and explore different ways of communicating information.
+
+## Next steps
+Next I want to experiment with more complex drawings and see how these visual approaches could be used in design work.
 
 ## Images & Media
 
