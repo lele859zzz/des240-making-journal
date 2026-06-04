@@ -12,7 +12,7 @@ This week we had our Reflective Proposal and our Consultation with Leo.
 
 This is what I submitted for my proposal for this class: 
 
-"My project direction for the Data-Driven Visualisation Project comes from reflecting on my
+My project direction for the Data-Driven Visualisation Project comes from reflecting on my
 Making Journal experiments, especially the Live Data visualisation, which I enjoyed the
 most. This was where I actually felt like a designer, because it involved both technical
 problem-solving and creative decision-making. While I also explored hands-on approaches, I
@@ -54,7 +54,7 @@ The main idea is to question how we understand environments that are not fully v
 the audience, I want it to feel slightly unclear but engaging, where they interpret what’s
 happening rather than being given a clear answer. Instead of just presenting information, the
 project aims to show that data can be expressive, emotional, and open to different
-meanings."
+meanings.
 
 ## Reflection 
 
