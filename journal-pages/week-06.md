@@ -22,34 +22,38 @@ While exploring the dataset, I noticed a few limitations and gaps. Some location
 
 Overall, the dataset was useful because it provided real environmental data collected over a long period of time. It helped me better understand how Auckland’s marine environments are monitored and how water quality can vary between different coastal areas. The data also showed the importance of environmental monitoring for public awareness and protecting marine ecosystems.  
 
+![Alt text](../assets/week-06/Screenshot%202026-06-04%20171654.png)
+*Screenshot of Search regarding Water Quality* 
+
 ## 2. Visual Research and Precedent Study  
 
 ### Reference 1  
 ![Alt text](../assets/week-06/stats-nz-interactive-data-visualisation-river-water-quality.jpg)
-`dick` 
+*Water Quality Statistics Visualisation* 
 
 I was drawn to this because of the way it presents environmental information clearly through data visualisation. The use of interactive visuals makes complex information easier to understand for audiences. This reference reinforced my idea of making environmental data more engaging and accessible through interactive design.  
 
 ### Reference 2  
-![Alt text](../assets/week-06/Screenshot%202026-05-27%20160514.png) 
+![Alt text](../assets/week-06/Screenshot%202026-05-27%20160514.png)
+*Screenshot of Website containing Environmental Monitoring* 
 
 I liked the way Live Ocean combines scientific information with visually engaging graphics and real-time environmental monitoring. The website made me think more about how environmental data can feel dynamic rather than static. This inspired me to consider adding interaction or movement into my own project through p5.js.  
 
 ### Reference 3  
 ![Alt text](../assets/week-06/1299_Futurium_OceanFutures_Vernissage_Jan_Windszus.webp)
-`Balangay Spacecraft Installation` 
+*Balangay Spacecraft Installation* 
 
 I liked the exhibition-style presentation and the speculative approach to future environmental conditions. It gave me ideas about how my own project could become more immersive and experiential rather than simply displaying numbers or graphs. This reference encouraged me to think about storytelling and audience experience within my project.  
 
 ### Reference 4  
 ![Alt text](../assets/week-06/RV-AG214_FINN_G_20120309022707.jpg)
-`Wave Glider` 
+*Wave Glider* 
 
 The wave glider stood out to me because it collects and displays environmental data in real time through its built-in design. This was one of my first inspirations for the project because originally I wanted my artefact to measure data itself. Although my project direction shifted more towards displaying existing data, this reference still influenced the visual and conceptual direction of my work.  
 
 ### Reference 5  
 ![Alt text](../assets/week-06/OFW2019_Pollution__FitWzEyMDAsMTQ5M10.jpg)
-`dick`  
+*Poster about Environmental Pollution*  
 
 I liked how this visual communicates environmental pollution through a strong visual hierarchy and simplified information. It showed me how environmental issues can be communicated visually without overwhelming the viewer with too much technical detail. This reinforced my interest in creating a design that balances aesthetics and information.  
 
@@ -57,7 +61,8 @@ I liked how this visual communicates environmental pollution through a strong vi
 
 ### 3.1 What do I need to make?  
 
-[Insert image of concept sketch/poster design]  
+`![Alt text](../assets/week-06/IMG_6692.jpeg)`
+`*Your caption here*`  
 
 My project idea is an interactive or visual artefact that communicates the safety and risks of water quality in relation to fishing in Aotearoa. I want the final outcome to either exist digitally through p5.js or as a designed 2D/3D poster installation. The project will visually represent different levels of water safety and environmental risk using abstract forms, fish-inspired visuals, colour changes, and interactive elements. Users may be able to click or interact with shapes to reveal different environmental data and safety information connected to different water areas.  
 
