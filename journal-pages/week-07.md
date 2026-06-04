@@ -8,54 +8,96 @@ layout: default
 
 ## Documentation 
 
-# Week 07 Blog  
+# Week 7
 
-# In-Class Activity  
+## In-Class Activities
 
-For this week’s in-class activity, I focused on sketching and developing my project idea in more detail so I could better understand how the environmental data would visually work within my design. My original idea was still focused on creating something mostly 2D, almost like a poster, but using fish-inspired forms and percentages to communicate water safety information in Aotearoa. I started by drawing where the datasets would sit, how the colours would represent different water safety levels, and how viewers would visually follow the information.  
+### Concept Sketches
 
-After showing my sketches to people in class, I received a lot of useful feedback. Most people immediately thought the design was a poster, but they also mentioned that it felt too busy and that it was difficult to understand what the colours and percentages represented. This feedback made me realise that even though the visuals were interesting, the information itself was not being communicated clearly enough. It also made me think more carefully about how I could simplify the visual hierarchy and make the fish shape more dominant so audiences would understand its importance straight away.  
+This week I further developed my concept sketch by adding more detail about where my datasets would go and how I could visually present the information through a 2D outcome.
 
-Because of this feedback, I created another sketch where the fish became more three-dimensional and much larger compared to the rest of the layout. I wanted the fish form to stand out as the central object because it represents both the environmental theme and the visualisation of the data itself. I also started thinking about how the work could move beyond just a flat poster and become something more physical and interactive.  
+![Alt text](../assets/week-07/IMG_6968.jpeg)
+*Further Concept Sketch* 
 
-For another quick experiment, I drew a fish divided into four sections, with each section representing a different estimated percentage of water safety. Although these percentages are not official scientific statistics, they are based on patterns and trends from the environmental research and datasets I explored during previous weeks. This experiment helped me think more about how to visually organise data and simplify information while still making the design visually engaging. Last week I mentioned wanting to improve at organising patterns from datasets, so I wanted to continue practising that skill through these sketches and experiments.  
+After showing my sketch to classmates, I received feedback that helped me rethink the project. A lot of people asked whether it was meant to be a poster and questioned how viewers would understand the different colours and percentages. Some also felt that the design was too busy and had too much information competing for attention.
 
-I also discussed the project idea with one of my friends to see if there were alternative ways I could present the environmental percentages and safety information. While they liked the creativity of the concept, they also mentioned that audiences might become confused without more context or clearer presentation. During this discussion, we came up with several “What If” ideas:  
+This feedback made me realise that I could explore presenting the project through physical materials instead of only a poster. I started considering materials such as wood and glass, although I would need to make sure the colours remained visible and easy to differentiate if I used transparent materials.
 
-- What if the project was made using materials connected to water?  
-- What if the project became a double-sided framed poster?  
-- What if the work used thick standing materials instead of remaining flat?  
+After receiving feedback, I created another sketch where I made the fish shape more three-dimensional. I wanted the fish to become the most visually dominant element because it represents the main focus of my project.
 
-These ideas made me realise that I was more interested in creating something that exists between a poster and a sculptural object. I liked the idea of using thick materials or layered surfaces so the project could physically stand rather than remain completely flat. This also helped me think about how I could transform my original A3 poster idea into something more immersive, dimensional, and visually interactive without making the project overly complicated.  
+![Alt text](../assets/week-07/IMG_6969.jpeg)
+*Dissecting my Sketch* 
 
-[Insert sketches and feedback images]  
+For a short time I also explored a different concept. I drew a fish divided into four sections, with each section representing a different percentage of water safety. Although these percentages were inspired by real environmental data, they were only estimates and not official figures. This helped me think about how data could be translated into visual forms and patterns.
 
-# Independent Study  
+Last week I mentioned that I wanted to focus on learning how to organise patterns from datasets more effectively. I want to continue developing this skill so I can ensure my data visualisations remain as accurate and understandable as possible.
 
-After the “What If” discussions and class feedback, I spent more time thinking about how my project could become more interactive and visually engaging through physical presentation. I started considering how the design could be viewed from different angles or sides instead of only from the front like a traditional poster. I felt that displaying the information across multiple layers or surfaces could help reduce how busy the design looked while also making the environmental data easier to understand.  
+### Making Sprint
 
-Because of this, I wanted to continue experimenting with combining graphic design and three-dimensional forms. I practised creating rough poster layouts while also experimenting with 3D fish-inspired shapes and structures to see how the project could physically exist in space. Since graphic design and physical prototyping are areas I have not explored deeply before, I wanted to continue improving these skills through experimentation.  
+For the Making Sprint, I focused on developing further sketches and visual explorations of my concept. I produced a range of annotated drawings to investigate different forms, functions, and interactions, helping me better understand how the design could operate within an underwater environment.
 
-While working on posters and testing different 3D forms, I realised that physical making takes much more planning and patience than digital sketching. At first it was difficult understanding how layers, shapes, and structures would work together visually, but after repeating the process several times I started becoming more familiar with it. I also realised that adding depth and structure made the project feel more visually engaging compared to a completely flat design.  
+Some sketches explored the overall appearance and biomimetic qualities of the concept, while others focused on technical features such as sensors, cameras, and methods of environmental data collection. Through this process, I was able to refine my ideas and communicate them more clearly.
 
-This experimentation helped me better understand how I could potentially transform my original idea from a simple poster into something more sculptural and interactive. It also made me think more carefully about materials, colour transparency, and how audiences would physically interact with the work in a space.  
+Creating multiple iterations helped me identify strengths and weaknesses within the concept, respond to feedback, and further develop how the design could function both practically and speculatively.
 
-[Insert poster experiments and 3D development images]  
+![Alt text](../assets/week-07/IMG_6970.jpeg)
+*First Sketch* 
 
-# Feedback Questions  
+### What If Variations
 
-1. Does the three-dimensional fish form make the environmental data easier to understand visually?  
+After discussing my work with a classmate, I received three "What If" suggestions:
 
-2. Which presentation style is more effective: a flat poster, layered standing design, or sculptural object?  
+- What if this was made using materials connected to water?
+- What if this became a double-sided framed piece?
+- What if this was made from thick card or board so it could stand by itself?
 
-3. How could I make the percentages and environmental information clearer without overcrowding the design?  
+I found the freestanding idea particularly interesting because it could make the project more physical and interactive while still presenting the data visually.
 
-# AI Usage Statement  
+![Alt text](../assets/week-07/IMG_6972.jpeg)
+*Dissecting my Sketch* 
 
-For this week’s development process, I used OpenAI’s ChatGPT (GPT-5.5) to help organise and refine written reflections for my weekly blog documentation. ChatGPT was also used to help structure blog content into markdown format for publishing on my GitHub Pages website.  
 
-Additionally, I used AI support during brainstorming and concept development to explore different ways environmental data and percentage systems could be visually represented through fish-inspired forms, posters, and three-dimensional structures. All AI-generated suggestions and written content were reviewed, edited, and adapted by me throughout the development process.  
+These ideas encouraged me to move beyond a traditional poster format and consider how my project could occupy physical space. I started thinking about ways to transform the original flat design into something more three-dimensional.
 
-## AI Usage Statement
+---
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+## Independent Study
+
+After completing the What If activities, I became more interested in creating an outcome that people could view from different angles. By spreading information across multiple surfaces, I could potentially reduce visual clutter and create a more engaging experience.
+
+I began experimenting with ways of introducing three-dimensional elements into my designs, whether through layered poster structures or a completely physical object.
+
+![Alt text](../assets/week-07/IMG_6971.jpeg)
+*Sketch after Feedback from classmates* 
+
+While creating posters and testing simple 3D forms, I realised that working in three dimensions takes practice. At first it was difficult to understand how the forms would work together, but after several attempts I became more comfortable with the process.
+
+These experiments helped me think about how environmental data could become something more interactive and spatial rather than simply existing as a flat infographic.
+
+---
+
+## Progress Report Preparation
+
+Instead of focusing on presentation slides, I used this stage to document and reflect on the development of my project through sketches, concept iterations, and draft poster designs.
+
+Most of my progress was communicated visually through annotated sketches, which allowed me to explore different forms, functions, and interactions for the concept. Alongside these sketches, I also developed several versions of my draft poster to refine how the project and its ideas were being communicated.
+
+Reviewing these sketches and poster iterations helped me identify areas for improvement, respond to feedback, and further develop both the concept and its visual communication.
+
+
+### Feedback Questions
+
+1. Does the fish shape help communicate the environmental data, or does it distract from the information?
+
+2. Would a three-dimensional outcome be more engaging than a traditional poster format?
+
+3. How can I make the different water quality percentages easier to understand while maintaining visual interest?
+
+---
+
+## Reflection
+
+This week helped me understand the importance of testing ideas early and gathering feedback from others. The comments I received highlighted issues that I had not considered, especially around clarity and visual complexity.
+
+The What If activity encouraged me to think beyond my original poster-based approach and begin exploring physical forms and structures. Moving forward, I want to continue experimenting with graphic and three-dimensional approaches while focusing on communicating environmental data clearly and effectively.
+
