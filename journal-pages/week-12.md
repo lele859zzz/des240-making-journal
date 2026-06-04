@@ -27,3 +27,10 @@ Rather than displaying information through a traditional graph or screen-based v
 ![Alt text](../assets/week-12/IMG_6961.jpeg)
 ![Alt text](../assets/week-12/IMG_6962.jpeg)
 
+## Reflection 
+
+Looking back on this project, I am pleased with how my proposal evolved from an initial idea into a more developed and meaningful outcome. Throughout the process, I explored different ways of communicating environmental data and experimented with sketches, research, 3D modelling, and prototyping methods to better understand my concept.
+
+One of the biggest challenges was translating complex water quality information into a form that was engaging and easy to understand. Through research and feedback, I refined my approach and developed a physical fish-shaped artefact that provides context for the data while remaining visually accessible.
+
+Although there were ideas and experiments that did not progress as planned, each stage helped me better understand the strengths and limitations of my project. Overall, this process strengthened my skills in research, visual communication, and iterative design, while reinforcing the importance of using design to make environmental issues more visible and understandable.
