@@ -6,19 +6,24 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Project Statement
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+# Safe Waters
 
-## Images & Media
+This data visualisation explores water quality across different types of waterways in Aotearoa New Zealand. Using environmental data from national water quality reports and monitoring programmes, the project compares the relative safety of mountain lakes and alpine rivers, coastal marine areas, lowland lakes and rural rivers, and urban streams, ponds, and estuaries.
 
-*Use the format below to embed images from your assets folder:*
+The project began with an interest in fish and aquatic ecosystems. This led me to consider the relationship between water quality, environmental health, and the places where people fish. Because fish depend on healthy waterways to survive, fishing became a useful context for communicating broader environmental issues. The visualisation takes the form of a physical fish-shaped artefact, using the familiar silhouette of a fish to immediately connect viewers to the subject matter.
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+The colour system is a key part of the design. Green represents the safest water conditions, gradually transitioning through yellow and orange to red as water quality decreases. This visual language was chosen because these colours are commonly associated with safety, caution, and danger, allowing viewers to quickly understand the information being presented.
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+The work also considers a future scenario in which water pollution and environmental degradation continue to affect waterways throughout Aotearoa. If these trends continue, safe fishing environments may become less common and aquatic ecosystems may face increasing pressure. By presenting environmental data in a physical and accessible form, the project encourages viewers to think about the long-term impacts of human activity on water systems.
 
-## AI Usage Statement
+Rather than displaying information through a traditional graph or screen-based visualisation, this project explores how data can be communicated through an object that provides both context and meaning. The intended impact is to increase awareness of water quality issues and encourage reflection on the importance of protecting freshwater and marine environments for future generations.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+
+## Final Artifact
+
+![Alt text](../assets/week-12/IMG_6959.jpeg)
+![Alt text](../assets/week-12/IMG_6961.jpeg)
+![Alt text](../assets/week-12/IMG_6962.jpeg)
+
