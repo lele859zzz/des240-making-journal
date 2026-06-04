@@ -8,7 +8,7 @@ layout: default
 
 ## Documentation 
 
-This week we had our Reflective Proposal and have a Consultation. 
+This week we had our Reflective Proposal and our Consultation with Leo. 
 
 This is what I submitted for my proposal for this class: 
 
